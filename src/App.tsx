@@ -3,7 +3,7 @@ import { type JSX } from 'react';
 function App(): JSX.Element {
   return (
     <>
-      <h1>Hello</h1>
+      <h1 className='font-bold underline'>Hello</h1>
     </>
   );
 }
