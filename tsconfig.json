@@ -23,7 +23,6 @@
     "baseUrl": ".",
     "paths": {
       "@src/*": ["src/*"],
-      "@styles/*": ["src/styles/*"]
     }
   },
   "include": ["src", ".eslintrc.cjs"],

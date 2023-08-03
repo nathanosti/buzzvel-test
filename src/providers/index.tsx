@@ -2,7 +2,7 @@ import { ReactNode } from 'react';
 
 import { ThemeProvider } from 'styled-components';
 
-import { theme } from '@styles/theme';
+import { theme } from '@src/styles/theme';
 import GlobalStyle from '@src/styles/globalStyles';
 
 interface IProps {
