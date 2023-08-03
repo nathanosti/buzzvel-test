@@ -1,5 +1,6 @@
 import { describe, it } from 'vitest';
-import { render, screen } from '@testing-library/react';
+import { screen } from '@testing-library/react';
+import { render } from './utils/test-utils';
 import App from './App';
 
 describe('App', () => {
